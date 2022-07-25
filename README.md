@@ -3,4 +3,4 @@ Neste repositório está o código relativo à Unidade Curricular de Laboratóri
 
 | Diretório | Descrição |
 | :-------- | :------------------------------------------------ |
-| Práticas  | Resoluções dos exerc |
+| Práticas  | Resoluções dos exercícios das folhas propostas |
