@@ -1,6 +1,6 @@
-# Laboratório de Computadores (CC1006)
-Neste repositório está o código relativo à Unidade Curricular de Laboratório de Computadores do Ano Letivo 2020/2021 - DCC/FCUP.
+# Computer Lab (CC1006)
+This repository contains the code for Computer Lab Course Unit of 2020/2021 Academic Year - DCC/FCUP.
 
-| Diretório | Descrição |
+| Folder | Description |
 | :-------- | :------------------------------------------------ |
-| Práticas  | Resoluções dos exercícios das folhas propostas |
+| Lab Classes  | Resolutions of the lab classes exercises |
